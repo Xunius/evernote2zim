@@ -16,6 +16,14 @@ This is achieved by:
 
 Steps 2-4 are done by this script. Other step should be done by the user.
 
+
+# Usage
+
+```
+python evernote2zim.py HTML_DIR ZIM_DIR
+```
+
+
 Some tips:
 
     * After creating the new notebook, you can let it stay open, and
