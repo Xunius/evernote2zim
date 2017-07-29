@@ -40,7 +40,7 @@ Some tips:
     I changed "%" to "percent", and all others are simply deleted. So be aware that your title might be different from in   Evernote.
       
 * Still rather early stage so probably a bit buggy. Let me know if you encounter one.
-* Also, don't use zim-wiki 0.66. It's buggy as hell. Fall back to 0.65 until they fix things up. **UPDATE**: 0.67 version looks good, update to this if possible.
+* Also, don't use zim-wiki 0.66. It's buggy as hell. Fall back to 0.65 until they fix things up. Spell checking in 0.67 also doesn't work for me.
 
 # Dependencies
 
